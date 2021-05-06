@@ -28,7 +28,7 @@
 [twitter]: https://twitter.com/002zerotwo_02
 [instagram]: https://www.instagram.com/antongranic_/?hl=en
 [vk]: https://vk.com/dollar_02
-[discord]: dsc.bio/antonprogect
+[discord]: https://discord.gg/vBGcWShShm
 
 
 <hr/>
