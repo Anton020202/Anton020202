@@ -8,6 +8,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="codeSTACKr | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 
 <br/>
 
@@ -29,6 +30,7 @@
 [instagram]: https://www.instagram.com/antongranic_/?hl=en
 [vk]: https://vk.com/dollar_02
 [discord]: https://discord.gg/vBGcWShShm
+[steam]: https://steamcommunity.com/profiles/76561198408147513/
 
 
 <hr/>
