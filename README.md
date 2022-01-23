@@ -27,7 +27,7 @@
 [twitter]: https://twitter.com/002zerotwo_02
 [instagram]: https://www.instagram.com/antongranic_/?hl=en
 [vk]: https://vk.com/dollar_02
-[discord]: https://discord.gg/vBGcWShShm
+[discord]: https://discord.gg/eclipsee
 [steam]: https://steamcommunity.com/profiles/76561198408147513/
 
 
