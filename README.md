@@ -2,9 +2,7 @@
 ![My stats](https://github-readme-stats.vercel.app/api?username=Anton020202)
 
 
-### ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ 
 
-[<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br/>
 
